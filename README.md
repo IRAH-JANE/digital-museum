@@ -72,6 +72,10 @@ holding location — follow the standard museum record for that work. Any interp
 confined to each artwork's "Curator's note," which the interface always labels as an interpretation
 rather than a fact.
 
+## Disclaimer
+
+Digital Museum was created by Irah Jane for school and educational purposes only. This project is intended for learning and demonstration purposes and is not intended for commercial or production use.
+
 ## Data and privacy
 
 Favourites, recently viewed works, your own curated exhibitions, achievement progress and your
